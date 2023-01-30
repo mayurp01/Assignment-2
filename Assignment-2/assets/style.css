@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;800&family=Lato:ital,wght@0,400;0,700;0,900;1,400&family=Playfair+Display&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600;1,700&display=swap');
+
+
+.main-block{
+font-family: 'Poppins';
+height:710px;
+width:900px;
+background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+margin-top:20px;
+margin-left:300px;
+border-radius:3rem;
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgb(35 34 34 / 75%);
+display: flex;
+}
+
+.second-block{
+    height:680px;
+    width:800px; 
+
+    border-radius:3rem;
+    margin-left:3rem;
+    margin-top:1rem;
+}
+
+.img1{
+    height:130px;
+    width:130px;
+        border-radius:5rem;
+   margin-left:2.3rem;
+   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 6px 9px 20px 0px rgb(35 34 34 / 50%);
+    }
+    
+.img2{
+height:130px;
+width:130px;
+border-radius:5rem;
+    margin-left:2.5rem;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 6px 9px 20px 0px rgb(35 34 34 / 50%);
+}
+
+#set1{
+ 
+    width:800px;
+    height:205px;
+    margin-top:-0.5rem;
+    border-radius:3rem;
+    display:flex;
+   
+}
+#set2{
+   
+    width:800px;
+    height:207px;
+    margin-top:1rem;
+    border-radius:3rem;
+    display:flex;
+   
+}
+
+.P1{
+    height:205px;
+    width:200px;
+    
+    margin-left:5rem;
+    
+}
+.P2{
+    height:205px;
+    width:200px;
+  
+    margin-left:15rem;
+}
+.P3{
+    height:205px;
+    width:200px;
+  
+    margin-left:9rem;
+}
+.P4{
+    height:205px;
+    width:200px;
+   
+    margin-left:7rem;
+}
+
+
+#heading{
+   background: -webkit-linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top:-0.8rem;
+    text-align:center;
+    font-weight:bold;
+    font-size:1.5rem;
+     
+}
+
+.Name1{
+    margin-top:0rem;
+    margin-left:1.5rem;
+    background: -webkit-linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    
+}
+
+.Name2{
+    margin-top:0rem;
+    margin-left:2.3rem;
+    background: -webkit-linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Name3{
+    margin-top:0rem;
+    margin-left:5rem;
+    background: -webkit-linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Name4{
+    margin-top:0rem;
+    margin-left:4.5rem;
+    background: -webkit-linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+
+#status{
+text-align:center;
+    margin-top:-1.4rem;
+    color:#601919;
+}
+
+
+#special{
+    color:rgb(255, 182, 25);
+    text-align:center;
+    margin-top:-4rem;
+    
+}
+#special2{
+   background: -webkit-linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    text-align:center;
+    margin-top:-4rem;
+    
+}
